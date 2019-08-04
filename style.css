@@ -3,6 +3,8 @@
     background: lightgray;
   }
 
+
+
 .latitude_box {
     color: white;
     background: teal;
@@ -37,5 +39,10 @@ table.visualizations {
     background-color: white;
     margin-top:15px;
     margin-left:90px;
+}
+
+#img_border{
+    max-width:95%;
+    border:3px solid teal;
 }
 
