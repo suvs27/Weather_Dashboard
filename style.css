@@ -46,3 +46,8 @@ table.visualizations {
     border:3px solid teal;
 }
 
+#comparison_width{
+    width: 70px; 
+    background: gray;
+}
+
